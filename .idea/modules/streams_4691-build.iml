@@ -19,4 +19,7 @@
       </library>
     </orderEntry>
   </component>
+  <component name="SbtModule">
+    <option name="buildForURI" value="file:$MODULE_DIR$/../../../../../Scala%20II/Assignments/streams/" />
+  </component>
 </module>
